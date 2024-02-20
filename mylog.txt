@@ -1,0 +1,27 @@
+*   Merge branch 'master' of https://github.com/KerriganHemp/GitBranching
+|\  
+| *   Merge pull request #3 from KerriganHemp/changemouse
+| |\  
+* | \   Merge branch 'changemouse'
+|\ \ \  
+| | |/  
+| |/|   
+| * | Changed Mouse Size
+|/ /  
+* |   Merge branch 'addmouse'
+|\ \  
+| |/  
+|/|   
+| * Added Ears Part 2
+* |   Merge pull request #2 from KerriganHemp/catears
+|\ \  
+| * | Added Ears
+* | |   Merge pull request #1 from KerriganHemp/addmouse
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * Added Mouse
+|/  
+* Added Whiskers
+* Initial Commit
