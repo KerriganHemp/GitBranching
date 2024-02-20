@@ -1,3 +1,4 @@
+* Added a git log graph
 *   Merge branch 'master' of https://github.com/KerriganHemp/GitBranching
 |\  
 | *   Merge pull request #3 from KerriganHemp/changemouse
